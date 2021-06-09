@@ -1,0 +1,9 @@
+input{
+	margin: 10px;
+}
+body{
+	text-align: center;
+}
+#sort_btn{
+	display: none;
+}
